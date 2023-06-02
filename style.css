@@ -81,7 +81,7 @@ header .container{
     color: var(--color-black);
 }
 
-.login{
+.login a{
     font-size: 11px;
     color:var(--color-gray);
 }
